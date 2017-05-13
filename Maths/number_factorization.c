@@ -1,7 +1,7 @@
-/* Author: 	Eduardo Cáceres de la Calle
- * Subject: 	Fundamentos de Informática
- * Degree: 	Industrial Electronics and Automatic Control Engineering
- * University:	Universidad de Valladolid (UVa) - EII
+/* Author:      Eduardo Cáceres de la Calle
+ * Subject:     Fundamentos de Informática
+ * Degree:      Industrial Electronics and Automatic Control Engineering
+ * University:  Universidad de Valladolid (UVa) - EII
  *
  * Code written in 2014, during my first contact with C.
  * Uploaded for educational purposes only, don't be too hard on me :)
